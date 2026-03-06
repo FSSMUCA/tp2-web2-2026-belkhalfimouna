@@ -18,11 +18,8 @@ Les variables à déclarer :
 - `a` = `42`
 - `b` = `"Bonjour"`
 - `c` = `true`
-- `d` = `null`
-- `e` non initialisée
-- `f` = `[1, 2, 3]`
-- `g` = `{ nom: "Ali" }`
-- `h` = `NaN`
+- `
+
 
 **Sortie attendue dans le terminal :**
 ```
